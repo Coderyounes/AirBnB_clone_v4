@@ -158,6 +158,5 @@ Younes Bousfiha <younesanas2021@gmail.com>
 
 Mohamed Assaoui <assaoui54@gmail.com>
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
