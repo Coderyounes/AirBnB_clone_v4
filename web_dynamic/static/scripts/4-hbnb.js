@@ -21,7 +21,6 @@ $(document).ready(function() {
             }
         });
         $('div.amenities h4').text(amenities.join(', '));
-        console.log(amenities_id);
     });
 });
 
